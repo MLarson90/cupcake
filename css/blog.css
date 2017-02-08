@@ -1,0 +1,36 @@
+body {
+  background:purple;
+}
+h1 {
+text-align:center;
+font-size:10em;
+color:red;
+font-weight:bolder;
+}
+.about {
+  width:75%;
+  text-align:center;
+  background:black;
+  color:red;
+  font-size:2em;
+  margin:45px;
+}
+.first {
+  width:50%;
+  text-align:right;
+  background: black;
+  color: blue;
+  font-size:3em;
+  float:left;
+  margin:40px;
+
+  }
+.second {
+  width: 60%;
+  text-align:left;
+  background:black;
+  color:yellow;
+  font-size:3em;
+  float:right;
+  margin:45px;
+    }
