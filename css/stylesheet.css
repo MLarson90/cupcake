@@ -1,0 +1,15 @@
+.important {
+  color: red;
+  font-style: italic;
+}
+
+.boring {
+  background: blue;
+  font-weight: bold;
+  color: white;
+}
+
+.cup {
+  border-radius: 30px;
+  border: 4px solid blue;
+}
