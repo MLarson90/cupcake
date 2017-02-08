@@ -22,7 +22,8 @@ font-weight:bolder;
   color: blue;
   font-size:3em;
   float:left;
-  margin:40px;
+ margin-top:40px;
+ margin-bottom:40px;
 
   }
 .second {
@@ -32,5 +33,6 @@ font-weight:bolder;
   color:yellow;
   font-size:3em;
   float:right;
-  margin:45px;
+  margin-top:40px;
+  margin-bottom:40px;
     }

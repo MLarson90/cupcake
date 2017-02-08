@@ -1,15 +1,16 @@
 .div {
-  width: 400px;
+  width: 380px;
   float: left;
   margin: 50px;
 }
 
 img {
-  width: 400px;
+  width: 380px;
   height: 300px;
 }
 
 h1 {
+  color: yellow;
   text-align: center;
   font-size: 4em;
 }
@@ -18,9 +19,11 @@ h1 {
 li{
   display: inline;
   font-size: 2.5em;
-  padding: 50px;
-  
+  padding: 50px;}
 
+body {
+  background: black;
+}
 
 
 }
@@ -41,4 +44,16 @@ a {
   color:white;
   text-decoration: none;
 
+}
+#first{
+  background: red;
+  border:3px double black;
+}
+#second{
+  background: blue;
+  border:3px double black;
+}
+#third{
+  background: green;
+  border:3px double black;
 }
